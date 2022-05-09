@@ -1,0 +1,254 @@
+.background {
+    background: url('https://images.unsplash.com/photo-1639322132757-14ee19fb04f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1934&q=80');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+    height: 1000px;
+    background-position: fixed;
+ 
+   
+    
+}
+
+.Hero-text{
+    font-family: 'Roboto';
+    font-size: 60px;
+    margin-left: 40px;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+    padding-top: 400px;
+}
+
+.stock-item{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 40px;
+}
+
+.background-color{
+    background-color:#f6f6f6;
+    width: 380px;
+    height: 500px;
+    padding: 10px;
+  
+   
+
+}
+
+.image{
+    width: 340px;
+    height: 219px;
+    margin-top: 5px;
+
+}
+
+.LogButtonT{
+    border-radius: 15px;
+    width: 148px;
+    height: 40px;
+    border: none;
+    background: linear-gradient(90deg, rgba(23,132,225,1) 0%, rgba(124,49,240,1) 99%);
+    color: white;
+    margin-right: 15px;
+    font-weight: 400;
+    font-family: 'Roboto' ;
+    font-size: 16px;
+    text-align: center;
+}
+
+.third-span{
+    font-size: 15px ;
+    color:chocolate;
+}
+
+@media only screen and (max-width: 600px) {
+    .stock-item {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 40px;
+       
+    }
+
+    .background-color{
+        background-color:#f6f6f6;
+        width: 280px;
+        height: 550px;
+    }
+    
+    .image{
+        width: 260px;
+        height: 219px;
+        margin-top: 5px;
+    
+    }
+
+
+    .LogButtonT{
+        border-radius: 15px;
+        width: 100px;
+        height: 40px;
+        border: none;
+        background: linear-gradient(90deg, rgba(23,132,225,1) 0%, rgba(124,49,240,1) 99%);
+        color: white;
+        font-weight: 400;
+        font-family: 'Roboto' ;
+        font-size: 14px;
+        text-align: center;
+        margin-right: -5px;
+        margin-left: 5px;
+    }
+
+    .Hero-text{
+        font-family: 'Roboto';
+        font-size: 32px;
+        margin-left: 40px;
+        font-weight: 800;
+        color: rgb(255, 255, 255);
+        padding-top: 400px;
+    }
+
+
+  
+
+
+
+
+.second-text{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+  }
+
+
+.second-header{
+    margin-top: 50px;
+}
+
+
+
+
+.namePrice{
+    margin: 0px 10px;
+    margin-top: 10px;
+}
+
+.text{
+    text-align: left;
+    margin: 0px 10px;
+}
+
+.quantity-line{
+    margin: 0px 10px;
+    
+}
+
+.heading{
+    font-family: 'Roboto';
+    font-size: 24px;
+    margin: 20px 0px;
+    text-align: left;
+
+}
+
+
+
+.box5{
+    text-align: left;
+}
+
+.headline-4{
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 50px;
+color: rgb(0, 0, 0);
+}
+
+.responsive-box {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 40px;
+}
+
+.footerColor{
+    background: linear-gradient(90deg, rgba(23,132,225,1) 0%, rgba(124,49,240,1) 99%);
+}
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid: 30px;
+    color: #f6f6f6;
+    
+}
+.response{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    color: #f6f6f6;
+    
+}
+
+
+
+
+.footer-box1{
+    text-align: left;
+    color: #f6f6f6;
+}
+.footer-box2{
+    text-align: left;
+    color: #f6f6f6;
+}
+
+.footer-box2 a{
+    text-decoration: none;
+    padding: 4px;
+    color: rgb(255, 255, 255);
+}
+.footer-box3{
+    text-align: left;
+    color: #f6f6f6;
+}
+
+
+.about-text{
+    text-align: left;
+    
+}
+.space{
+    margin-right: 30px;
+}
+
+.text-bold{
+    font-family: 'Roboto';
+    font-size: 36px;
+    font-weight: 500;
+    line-height: -2;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .wrapper {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        color: #f6f6f6;
+       grid-gap: 20px;
+ 
+    }
+    .text-bold{
+        font-family: 'Roboto';
+        font-size: 24px;
+        font-weight: 500;
+        line-height: -2;
+    }
+
+  .fo-headline{
+      font-size: 16px;
+  }
+    .footer-text{
+        font-size: 12px;
+    }
+}

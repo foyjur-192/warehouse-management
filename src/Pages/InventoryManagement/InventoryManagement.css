@@ -1,0 +1,27 @@
+.images img {
+    width: 155px;
+    height: 117px;
+}
+
+     .text-align{
+         text-align: left;
+     }       
+
+
+.background-vertical{
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    padding: 20px;
+    box-shadow:  rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.Name-text{
+   
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Price-text{
+    font-family: 'Roboto';
+    font-size: 18px;
+}

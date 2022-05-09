@@ -1,0 +1,52 @@
+[
+    {
+      "id": "rt655fgh54ffg6",
+      "name": "Single Chair",
+      "price": "500",
+      "Supplier Name": "Ahmed Ahraf",
+      "description": "Best sofa for living room.moreover, we can deliver sofa matching with your living room color",
+      "img": "https://images.unsplash.com/photo-1517705008128-361805f42e86?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1387&q=80"
+    },
+    {
+      "id": "6yhg6d6544h5d",
+      "name": "Form Chair",
+      "price": "400",
+      "Supplier Name": "Karim Jalal",
+      "description": "Best sofa for living room.moreover, we can deliver sofa matching with your living room color ",
+      "img": "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": "hff5654fg4hd5h",
+      "name": "Arm Chair",
+      "price": "200",
+      "Supplier Name": "Jamal Ahmed",
+      "description": "Best sofa for living room.moreover, we can deliver sofa matching with your living room color",
+      "img": "https://images.unsplash.com/photo-1484101403633-562f891dc89a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80"
+    },
+
+
+    {
+        "id": "jgf664ff66565g",
+        "name": "Plastic Chair",
+        "price": "50",
+        "Supplier Name": "Salam Jamal",
+        "description": "Best sofa for living room.moreover, we can deliver sofa matching with your living room color",
+        "img": "https://images.unsplash.com/photo-1617103996702-96ff29b1c467?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
+      },
+      {
+        "id": "dfh5654dfg545f",
+        "name": "Office Chair",
+        "price": "150",
+        "Supplier Name": "Kamal Miah",
+        "description": "Best sofa for living room.moreover, we can deliver sofa matching with your living room color ",
+        "img": "https://images.unsplash.com/photo-1582037928769-181f2644ecb7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "id": "f64gf4h54f5gd4",
+        "name": "Table Chair",
+        "price": "250",
+        "Supplier Name": "Kawser Jamal",
+        "description": "Best sofa for living room.moreover, we can deliver sofa matching with your living room color",
+        "img": "https://images.unsplash.com/photo-1560448205-4d9b3e6bb6db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      }
+  ]

@@ -1,0 +1,60 @@
+.img img{
+    width: 600px;
+    height:449px ;
+}
+
+
+.inventory-bottom{
+    margin-top: 150px;
+}
+
+
+
+.text-box{
+    text-align: left;
+   padding-left: 50px;
+}
+
+.price-text{
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-weight: 500;
+    color: #444;
+}
+p{
+    font-size: 15px;
+    font-family: 'Roboto';
+    color: rgb(101, 101, 101);
+    font-weight: 400;
+}
+
+.mother-container{
+    justify-content: center;
+    display: flex;
+}
+
+.form-container{
+    width: 1000px;
+   
+  
+}
+
+
+
+
+span{
+    font-size: 15px;
+    font-family: 'Roboto';
+    color: rgb(85, 85, 85);
+}
+
+.description{
+    font-size: 15px;
+    font-family: 'Roboto';
+    color: rgb(115, 115, 115);
+    font-weight: 500;
+}
+
+.btn{
+    display: flex;
+}

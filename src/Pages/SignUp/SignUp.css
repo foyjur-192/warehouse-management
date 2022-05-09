@@ -1,0 +1,54 @@
+.logIn-container{
+    width: 1000px;
+    height: 600;
+ 
+    padding: 20px;
+   box-shadow:  rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.container-forms{
+  text-align: left;
+    width: 400px;
+    
+    padding: 20px;
+}
+.container-form{
+    background: url('https://i.ibb.co/Kb3wDJ4/Group-3.png');
+   
+    width: 400px;
+    height: 500px;
+    padding: 10px;
+}
+
+.btn-log{
+    border-radius: 15px;
+    width: 140px;
+    height: 40px;
+    border: none;
+    background: linear-gradient(90deg, rgba(23,132,225,1) 0%, rgba(124,49,240,1) 99%);
+    color: white;
+    font-weight: 400;
+    font-family: 'Roboto' ;
+    font-size: 18px;
+    box-shadow:  rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.btn-logs{
+    border-radius: 15px;
+    width: 140px;
+    height: 40px;
+    border: none;
+    background: linear-gradient(90deg, rgba(23,132,225,1) 0%, rgba(124,49,240,1) 99%);
+    color: white;
+    margin-right: 15px;
+    font-weight: 400;
+    font-family: 'Roboto' ;
+    font-size: 18px;
+    box-shadow:  rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+span{
+    color: blueviolet;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Roboto' ;
+
+}
