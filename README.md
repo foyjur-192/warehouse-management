@@ -6,6 +6,9 @@ Live Website Link- https://furniture-stock-8d494.web.app/home
 >Functionality-
 > I have used React.js and bootstrap, html and css
 >As well I have used Node.js for this project for backend
+>I have used routes for faster move one page to another
+>I have use firebase to deploy the website live
+>I have used Heroku for server deploy
 
 
 
