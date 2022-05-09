@@ -4,7 +4,7 @@ Live Website Link- https://furniture-stock-8d494.web.app/home
 > website Name- FurnitureStockHub
 >About my Website-It is about a furniture inventory management company, Where they can delivery the  product and can add item again.
 >Functionality-
-> I have used React.js for 
+> I have used React.js and bootstrap, html 
 
 
 
